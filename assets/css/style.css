@@ -1,0 +1,67 @@
+* {
+    font-family: cabin;
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    font-weight: medium;
+    color: #373a3c;
+    }
+
+nav p {
+
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+    color: white;
+    
+    
+}
+
+.navbar-nav {
+    font-size: 16px;
+    font-family: "Cabin", regular 
+}
+
+.header-subtitle{
+    font-size: 40px;
+}
+
+.header__text-content{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.receta__ingredientes--lista{
+    list-style: none;
+}
+
+.card{
+    width: 316px;
+}
+
+.ricomida{
+    font-family: 'Lobster', cursive;
+    color: #ffffff;
+}
+
+.footer-button{
+    margin:2rem auto 5rem;
+}
+
+.sub-footer{
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+    text-align: center; 
+}
+
+.footer-text {
+    color: #ffffff;
+}
+
+.text-white{
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+}
+
+.cambio-color-a-rojito{
+    color: red;
+}
