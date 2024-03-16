@@ -5,13 +5,13 @@ $(document).ready(function(){
   });
 });
 
-const textoRojito = document.getElementById('ingredientes');
-textoRojito.addEventListener('dblclick', function(){
-  textoRojito.className = "cambio-color-a-rojito"
+const textoRojo1 = document.getElementById('ingredientes');
+textoRojo1.addEventListener('dblclick', function(){
+  textoRojo1.className = "cambio-color-a-rojo"
 });
-const textoRojitoDos = document.getElementById('preparacion');
-textoRojitoDos.addEventListener('dblclick', function(){
-  textoRojitoDos.className = "cambio-color-a-rojito"
+const textoRojo2 = document.getElementById('preparacion');
+textoRojo2.addEventListener('dblclick', function(){
+  textoRojo2.className = "cambio-color-a-rojo"
 });
 
 $(document).ready(function () {

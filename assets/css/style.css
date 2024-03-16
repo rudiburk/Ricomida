@@ -30,8 +30,9 @@ nav p {
     font-weight: bold;
 }
 
-.receta__ingredientes--lista{
+.receta__ingredientes--lista , .receta__ingredientes , .texto-preparacion{
     list-style: none;
+    font-size: 20px;
 }
 
 .card{
@@ -43,8 +44,17 @@ nav p {
     color: #ffffff;
 }
 
+.footer {
+    height: 534px;
+}
+
+.titulo-footer {
+    padding-top: 150px;
+}
+
 .footer-button{
     margin:2rem auto 5rem;
+    font-family: 'Cabin' !important; 
 }
 
 .sub-footer{
@@ -62,6 +72,6 @@ nav p {
     font-size: 37px;
 }
 
-.cambio-color-a-rojito{
+.cambio-color-a-rojo{
     color: red;
 }
